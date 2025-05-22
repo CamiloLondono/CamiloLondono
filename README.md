@@ -21,10 +21,9 @@
 
 ## 🌟 Featured Projects
 
-- 🚀 [**Environmental Management System**](https://github.com/CamiloLondono/tu-repo) – A Django-based platform for managing environmental resources in rural areas.
-- 📱 [**Used Clothing Exchange App**](https://github.com/CamiloLondono/otro-repo) – A Flutter app promoting sustainable fashion and second-hand clothing exchange.
-- 🧮 [**Agricultural Accounting Software**](https://github.com/CamiloLondono/otro-repo) – Backend system for tracking expenses in coffee, plantain, and other crop farms.
-
+- 🚀 [**Academic physical space management system**](https://github.com/Jhon98E/sistema-de-gestion-de-espacios-fisicos-academicos) – Software designed to manage the use of classroom spaces at the Universidad del Valle.
+- 📱 [**Nasa App**](https://github.com/CamiloLondono/nasa_app) – Application made in Flutter that consumes a NASA API to display incredible data.
+  
 ---
 
 ## 🧰 Technologies and Tools
@@ -62,8 +61,7 @@
 
 ## 🏅 Certifications
 
-- 🥇 Backend Developer Certificate – Platzi
-- 📜 Python for Everybody – University of Michigan (Coursera)
+- 🥇 Diploma for the Introduction to Backend Development Course – Platzi(https://platzi.com/p/cristian-camilo-londono/curso/4656-backend/diploma/detalle/)
 
 ---
 
