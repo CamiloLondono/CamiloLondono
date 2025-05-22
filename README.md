@@ -1,115 +1,106 @@
-<h2 align="left">About Me 👋</h2>
-
-###
-
 <h1 align="center">Hi 👋, I'm Cristian Camilo Londoño Alvarez</h1>
 
-###
+<h3 align="center">💻 Backend Developer | Python Enthusiast | Problem Solver</h3>
 
-<h3 align="center">Backend Developer passionate about creating efficient technological solutions 🚀</h3>
+<p align="center">
+  Passionate about building scalable, maintainable, and efficient backend systems. <br>
+  I specialize in Python, Node.js, and modern backend architectures using RESTful APIs and microservices.
+</p>
 
-###
+---
 
-<p align="center">💡 I'm passionate about software development, with a focus on backend and databases. I enjoy solving problems and optimizing processes with technologies like Python, Django, Node.js, and SQL.<br><br>🌱 I'm currently learning more about software architecture, design patterns, and mobile development with Flutter.<br><br>🔎 I'm looking for opportunities to collaborate on challenging projects and continue growing as a developer.</p>
+## 👨‍💻 About Me
 
-###
+- 💡 I love solving problems and optimizing processes using technologies like **Python**, **Django**, **Node.js**, and **SQL**.
+- 🌱 Currently learning more about **software architecture**, **design patterns**, and **mobile development** with **Flutter**.
+- 🔎 Open to collaborating on impactful projects and continuous learning opportunities.
+- 🎓 Student of Software Development Technology at **Universidad del Valle**.
+- 👨‍🏫 Former programming monitor at the university.
 
-<h2 align="left">📬 Contact Me</h2>
+---
 
-###
+## 🌟 Featured Projects
 
-<p align="left">If you want to talk about technology, collaborate on a project, or just say hi, feel free to message me!<br><br>📩 Email: cristulxpeke@gmail.com<br>🔗 LinkedIn: linkedin.com/in/cristian-londoño-alvarez-3b0116325/</p>
+- 🚀 [**Environmental Management System**](https://github.com/CamiloLondono/tu-repo) – A Django-based platform for managing environmental resources in rural areas.
+- 📱 [**Used Clothing Exchange App**](https://github.com/CamiloLondono/otro-repo) – A Flutter app promoting sustainable fashion and second-hand clothing exchange.
+- 🧮 [**Agricultural Accounting Software**](https://github.com/CamiloLondono/otro-repo) – Backend system for tracking expenses in coffee, plantain, and other crop farms.
 
-###
+---
+
+## 🧰 Technologies and Tools
+
+### 🛠️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+</div>
+
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
+</div>
+
+### ⚙️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+</div>
+
+---
+
+## 🏅 Certifications
+
+- 🥇 Backend Developer Certificate – Platzi
+- 📜 Python for Everybody – University of Michigan (Coursera)
+
+---
+
+## 🤝 Community & Volunteering
+
+- 🎓 Programming monitor at Universidad del Valle
+- 👥 Active participant in tech meetups and open-source communities
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamiloLondono&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloLondono&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  If you want to talk about technology, collaborate on a project, or just say hi, feel free to reach out!
+</p>
+
+- 📩 **Email**: [cristulxpeke@gmail.com](mailto:cristulxpeke@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/cristian-londoño-alvarez-3b0116325](https://linkedin.com/in/cristian-londoño-alvarez-3b0116325/)
 
 <div align="left">
-  <a href="cristulxpeke@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:cristulxpeke@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="linkedin.com/in/cristian-londoño-alvarez-3b0116325" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/cristian-londoño-alvarez-3b0116325" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<h2 align="left">💻 Technologies and Tools</h2>
-
-###
-
-<h3 align="center">🛠️ Backend:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-</div>
-
-###
-
-<h3 align="center">🗄️ Databases:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="center">📱 Mobile Development:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-</div>
-
-###
-
-<h3 align="center">🛠️ DevOps & Tools:</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloLondono&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloLondono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="center">🚀 Always looking for new challenges and learning!<br>📫 If you want to work together or exchange ideas, feel free to contact me.</p>
-
-###
+<p align="center">🚀 Always looking for new challenges and opportunities to grow!</p>
