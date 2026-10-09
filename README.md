@@ -14,8 +14,9 @@
 - 💡 I love solving problems and optimizing processes using technologies like **Python**, **Django**, **Node.js**, and **SQL**.
 - 🌱 Currently learning more about **software architecture**, **design patterns**, and **mobile development** with **Flutter**.
 - 🔎 Open to collaborating on impactful projects and continuous learning opportunities.
-- 🎓 Student of Software Development Technology at **Universidad del Valle**.
-- 👨‍🏫 Former programming monitor at the university.
+- 🎓 Graduated in Software Development Technology from Universidad del Valle.
+- 🎓 Currently pursuing a degree in Systems and Computing Engineering at Universidad del Quindío.
+- 👨‍🏫 Former programming teaching assistant at Universidad del Valle.
 
 ---
 
